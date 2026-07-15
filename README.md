@@ -11,6 +11,6 @@ SQL · Python (Pandas, NumPy, PySpark) · Power BI (DAX) · Microsoft Fabric · 
 - 📊 BI dashboards: Power BI (DAX, star schema) turning raw data into stakeholder-ready insights
 - 🔁 ETL automation: reusable pipelines and reporting models built for self-service analytics
 
-**Proof:** [Metrocar Ride-Hailing Funnel Analysis](https://github.com/nadiia2302/ride-hailing-funnel-analysis) · [NYC Urban Analytics Platform](https://github.com/nadiia2302/nyc-urban-analytics-fabric) (https://github.com/nadiia2302/python_for_ds_tasks)
+**Proof:** [Metrocar Ride-Hailing Funnel Analysis](https://github.com/nadiia2302/ride-hailing-funnel-analysis) · [NYC Urban Analytics Platform](https://github.com/nadiia2302/nyc-urban-analytics-fabric) 
 
 📫 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nadiia-savchenko-35053828a/]) · Poland
