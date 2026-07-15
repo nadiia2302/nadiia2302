@@ -13,4 +13,4 @@ SQL · Python (Pandas, NumPy, PySpark) · Power BI (DAX) · Microsoft Fabric · 
 
 **Proof:** [Metrocar Ride-Hailing Funnel Analysis](https://github.com/nadiia2302/ride-hailing-funnel-analysis) · [NYC Urban Analytics Platform](https://github.com/nadiia2302/nyc-urban-analytics-fabric) · [Python for Data Analysis](https://github.com/nadiia2302/python_for_ds_tasks)
 
-📫 [LinkedIn](https://www.linkedin.com/) · Poland
+📫 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nadiia-savchenko-35053828a/)) · Poland
