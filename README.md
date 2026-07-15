@@ -3,7 +3,7 @@
 
 I turn messy, large-scale data into decisions people act on - from funnel bottlenecks to city-wide mobility trends.
 
-SQL · Python (Pandas, NumPy, PySpark) · Power BI (DAX) · Microsoft Fabric · PostgreSQL · ETL/ELT
+SQL  •  Python (Pandas, NumPy, PySpark)  •  Excel  •  Power Query  •  Power BI  •  Tableau  •  DAX  •  PostgreSQL  •  MySQL  •  SQL Server  •  Microsoft Fabric  •  ETL/ELT  •  Data Modeling  •  Data Cleaning  •  Exploratory Data Analysis (EDA)  •  KPI Reporting  •  Funnel Analysis  •  Cohort Analysis  •  Customer Segmentation  •  Trend Analysis  •  A/B Testing Fundamentals  •  Jupyter Notebook  •  Git  •  GitHub
 
 **What I do**
 - 📉 Funnel & churn analysis: identifying drop-off stages, calculating conversion/churn rates, translating findings into retention strategy (reduced customer loss by 59.5% on a ride-hailing funnel model)
