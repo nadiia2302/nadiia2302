@@ -1,4 +1,4 @@
-#### Nadiia Savchenko
+# Nadiia Savchenko
 **Junior Data Analyst · Computer Engineering graduate**
 
 I turn messy, large-scale data into decisions people act on - from funnel bottlenecks to city-wide mobility trends.
