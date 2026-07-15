@@ -1,7 +1,7 @@
 ### Nadiia Savchenko
 **Junior Data Analyst · Computer Engineering graduate**
 
-I turn messy, large-scale data into decisions people act on — from funnel bottlenecks to city-wide mobility trends.
+I turn messy, large-scale data into decisions people act on - from funnel bottlenecks to city-wide mobility trends.
 
 SQL · Python (Pandas, NumPy, PySpark) · Power BI (DAX) · Microsoft Fabric · PostgreSQL · ETL/ELT
 
@@ -13,4 +13,4 @@ SQL · Python (Pandas, NumPy, PySpark) · Power BI (DAX) · Microsoft Fabric · 
 
 **Proof:** [Metrocar Ride-Hailing Funnel Analysis](https://github.com/nadiia2302/ride-hailing-funnel-analysis) · [NYC Urban Analytics Platform](https://github.com/nadiia2302/nyc-urban-analytics-fabric) · [Python for Data Analysis](https://github.com/nadiia2302/python_for_ds_tasks)
 
-📫 [LinkedIn](https://www.linkedin.com/) · Opole, Poland
+📫 [LinkedIn](https://www.linkedin.com/) · Poland
